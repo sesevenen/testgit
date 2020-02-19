@@ -1,2 +1,4 @@
 Some feature
 
+text from master
+
